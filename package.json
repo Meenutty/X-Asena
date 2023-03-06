@@ -21,8 +21,13 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Drips",
-  "license": "MIT",
+  "author": "X-Electra",
+  "developer": "X-Electra / Neeraj-x0",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Neeraj-x0/x-asena/issues"
+  },
+  "homepage": "https://github.com/Neeraj-x0/x-asena#readme",
   "dependencies": {
     "@adiwajshing/baileys": "4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",
