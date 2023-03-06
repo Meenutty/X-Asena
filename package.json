@@ -88,15 +88,4 @@
     "xfarr-api": "^2.0.0",
     "yargs": "^17.2.1"
   },
-  "directories": {
-    "lib": "lib"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Jackz-ser/Anjali-MD.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Jackz-ser/Anjali-MD/issues"
-  },
-  "homepage": "https://github.com/Jackz-ser/Anjali-MD#readme"
-}
+
